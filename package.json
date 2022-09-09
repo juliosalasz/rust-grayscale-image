@@ -1,5 +1,5 @@
 {
-  "name": "rust_image_proyect",
+  "name": "image-effects",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,13 +10,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "html-webpack-plugin": "^5.5.0",
-    "webpack": "^5.74.0",
-    "webpack-cli": "^4.10.0",
-    "webpack-dev-server": "^4.11.0"
-  },
   "devDependencies": {
-    "@wasm-tool/wasm-pack-plugin": "^1.6.0"
+    "@wasm-tool/wasm-pack-plugin": "^1.5.0",
+    "html-webpack-plugin": "^5.3.2",
+    "webpack": "^5.52.0",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.1.0"
   }
 }
